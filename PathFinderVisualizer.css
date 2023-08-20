@@ -1,0 +1,25 @@
+.grid {
+    margin: 30px 0 0;
+}
+
+button,
+[type="run-algo"] {
+  height: 50px;
+  font-size: 14px;
+  border-radius: 6px;
+  background-color: #3b5998;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  background-position: 30px;
+  margin-top: 65px;
+  
+}
+button:hover,
+[type="run-algo"] {
+transform: matrix();
+background-color:#4b71c5;
+
+}
